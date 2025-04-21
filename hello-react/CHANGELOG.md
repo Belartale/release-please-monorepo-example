@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/Belartale/release-please-monorepo-example/compare/hello-react@v0.4.0...hello-react@v0.4.1) (2025-04-21)
+
+
+### Bug Fixes
+
+* **react:** update comment in App.js from "//ss" to "//sss" ([e534d8b](https://github.com/Belartale/release-please-monorepo-example/commit/e534d8b3cbdbe0c2c87e82d31ac3088157325121))
+
 ## [0.4.0](https://github.com/Belartale/release-please-monorepo-example/compare/hello-react@v0.3.0...hello-react@v0.4.0) (2025-04-21)
 
 
